@@ -15,6 +15,13 @@
       "when": 1752076874263,
       "tag": "0001_shocking_thor_girl",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752278546966,
+      "tag": "0002_lonely_blonde_phantom",
+      "breakpoints": true
     }
   ]
 }
